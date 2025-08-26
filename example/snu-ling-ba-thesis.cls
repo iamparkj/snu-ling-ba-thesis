@@ -1,1 +1,1 @@
-/Users/young/Downloads/snu-cse-bsc-thesis-main/snu-ling-ba-thesis.cls
+../snu-ling-ba-thesis.cls
