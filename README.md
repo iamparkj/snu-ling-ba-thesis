@@ -1,6 +1,6 @@
 # snu-ling-ba-thesis 클래스
 
-snu-ling-ba-thesis 클래스는 서울대학교 언어학과 학사학위논문 양식을 LaTeX으로 작성하기 위한 클래스입니다. [Zeta611/snu-ece-bsc-thesis](https://github.com/Zeta611/snu-ece-bsc-thesis)와 [Zeta611/snu-cse-bsc-thesis](https://github.com/Zeta611/snu-cse-bsc-thesis)를 참조하였습니다.
+snu-ling-ba-thesis 클래스는 서울대학교 언어학과 학사학위논문 양식을 LaTeX으로 작성하기 위한 클래스입니다. [Zeta611/snu-ece-bsc-thesis](https://github.com/Zeta611/snu-ece-bsc-thesis)와 [Zeta611/snu-cse-bsc-thesis](https://github.com/Zeta611/snu-cse-bsc-thesis)를 참고하였습니다.
 
 `ko` 및 `en` 옵션으로 한국어와 영어 논문을 둘 다 지원합니다.
 
